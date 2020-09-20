@@ -1,0 +1,9 @@
+body {
+    background:lightskyblue;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color:hsl(300, 100%, 25%);
+    text-align:center;
+}
