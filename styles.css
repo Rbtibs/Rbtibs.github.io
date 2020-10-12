@@ -22,3 +22,7 @@ h1 {
     width: 700px;
     padding: 10px;
 }
+a {
+    text-decoration:none;
+    color:rgba(111, 0, 255, 0.932);
+}
