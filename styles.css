@@ -30,3 +30,6 @@ a {
 .assignment a:hover {
     color: black;
 }
+.assignment {
+    display:flex;
+}
